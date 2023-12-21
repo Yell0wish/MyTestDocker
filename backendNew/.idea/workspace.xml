@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="peer-assessment-system:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a52b41a-71ee-4e70-afd3-739d4f2d863a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ye/controller/ContentSimilarityCheckController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ye/controller/ContentSimilarityCheckController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ye/controller/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ye/controller/PostController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ye/PeerAssessmentSystemApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ye/PeerAssessmentSystemApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/ye/service/SubmitService.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="17" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2Ww95Efn4klXZGyUn5YGHnn5LyR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender configuration",
+    "Notification.DoNotAsk-WindowsDefender": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "backend",
+    "last_opened_file_path": "D:/DockerTest/backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "Docker",
+    "spring.configuration.checksum": "5259539f408a09a32f1f2fc46952fb09",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.PeerAssessmentSystemApplication">
+    <configuration name="PeerAssessmentSystemApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="peer-assessment-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ye.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ye" />
+      <option name="MAIN_CLASS_NAME" value="com.ye.PeerAssessmentSystemApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="peer-assessment-system.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/peer_assessment_system_jar/peer-assessment-system.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Peer-Assessment-System" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PeerAssessmentSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="peer-assessment-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ye.PeerAssessmentSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackEnd" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="backend" />
+          <option name="containerName" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.BackEnd" />
+      <item itemvalue="JAR Application.peer-assessment-system.jar" />
+      <item itemvalue="JUnit.PeerAssessmentSystemApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.PeerAssessmentSystemApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.peer-assessment-system.jar" />
+        <item itemvalue="JUnit.PeerAssessmentSystemApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a52b41a-71ee-4e70-afd3-739d4f2d863a" name="Changes" comment="" />
+      <created>1697632589258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697632589258</updated>
+      <workItem from="1697632590325" duration="113000" />
+      <workItem from="1697632711221" duration="1331000" />
+      <workItem from="1697700619171" duration="13960000" />
+      <workItem from="1697727912591" duration="1000" />
+      <workItem from="1697733757789" duration="2119000" />
+      <workItem from="1697777718715" duration="1921000" />
+      <workItem from="1697782636372" duration="5476000" />
+      <workItem from="1697818041641" duration="376000" />
+      <workItem from="1697962978661" duration="14000" />
+      <workItem from="1698121936817" duration="1991000" />
+      <workItem from="1698208311815" duration="1519000" />
+      <workItem from="1698224803908" duration="4103000" />
+      <workItem from="1698232646397" duration="66000" />
+      <workItem from="1698232737606" duration="728000" />
+      <workItem from="1698233483959" duration="26000" />
+      <workItem from="1698233521012" duration="193000" />
+      <workItem from="1698246423811" duration="960000" />
+      <workItem from="1698322870454" duration="9029000" />
+      <workItem from="1698382354062" duration="4767000" />
+      <workItem from="1698910022026" duration="14852000" />
+      <workItem from="1698941262347" duration="1554000" />
+      <workItem from="1699441493167" duration="9147000" />
+      <workItem from="1699518748789" duration="10209000" />
+      <workItem from="1699602560377" duration="814000" />
+      <workItem from="1700046009018" duration="9959000" />
+      <workItem from="1700103791642" duration="5910000" />
+      <workItem from="1700135618702" duration="1186000" />
+      <workItem from="1700139961193" duration="335000" />
+      <workItem from="1700140307544" duration="403000" />
+      <workItem from="1700142882954" duration="911000" />
+      <workItem from="1700189709550" duration="16000" />
+      <workItem from="1700192961886" duration="2452000" />
+      <workItem from="1700197245395" duration="171000" />
+      <workItem from="1700204341916" duration="532000" />
+      <workItem from="1700566794173" duration="769000" />
+      <workItem from="1700567703688" duration="106000" />
+      <workItem from="1700568138935" duration="115000" />
+      <workItem from="1700568287891" duration="2314000" />
+      <workItem from="1700578873951" duration="6289000" />
+      <workItem from="1700656650034" duration="9943000" />
+      <workItem from="1700722894968" duration="11079000" />
+      <workItem from="1700740635376" duration="22522000" />
+      <workItem from="1700816137845" duration="4068000" />
+      <workItem from="1701268103917" duration="3104000" />
+      <workItem from="1701272907408" duration="2802000" />
+      <workItem from="1701327848728" duration="5852000" />
+      <workItem from="1701334705204" duration="7346000" />
+      <workItem from="1701347194448" duration="1038000" />
+      <workItem from="1701413759650" duration="1646000" />
+      <workItem from="1701415671920" duration="1645000" />
+      <workItem from="1701418463511" duration="199000" />
+      <workItem from="1701418692175" duration="1478000" />
+      <workItem from="1701862772035" duration="4683000" />
+      <workItem from="1701955963301" duration="9146000" />
+      <workItem from="1702016021984" duration="2147000" />
+      <workItem from="1702650136468" duration="1971000" />
+      <workItem from="1703146121774" duration="9489000" />
+      <workItem from="1703179089787" duration="1233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
